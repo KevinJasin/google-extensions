@@ -1,0 +1,22 @@
+
+#mw-navigation, #footer, #siteNotice, .mw-sidebar, .mw-editsection, .portal, .metadata, .navbox, .mw-jump, .catlinks {
+    display: none !important;
+  }
+  
+  #content, #firstHeading, #bodyContent {
+    display: block !important;
+  }
+  
+  #content * {
+    display: block !important;
+  }
+  
+  #bodyContent img, #bodyContent table {
+    display: block !important;
+  }
+  
+  #mw-panel {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
