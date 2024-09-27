@@ -7,10 +7,6 @@
     display: block !important;
   }
   
-  #content * {
-    display: block !important;
-  }
-  
   #bodyContent img, #bodyContent table {
     display: block !important;
   }
